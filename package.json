@@ -20,6 +20,7 @@
     "@mantine/prism": "3.4.2",
     "dayjs": "^1.10.7",
     "next": "12.0.7",
+    "nodemailer": "^6.7.2",
     "prism-react-renderer": "^1.2.1",
     "react": "17.0.2",
     "react-dom": "17.0.2"
@@ -27,6 +28,7 @@
   "devDependencies": {
     "@mantine/eslint-config": "3.4.2",
     "@next/bundle-analyzer": "^12.0.7",
+    "@types/nodemailer": "^6.4.4",
     "@types/react": "17.0.37",
     "@typescript-eslint/eslint-plugin": "^5.5.0",
     "@typescript-eslint/parser": "^5.5.0",
