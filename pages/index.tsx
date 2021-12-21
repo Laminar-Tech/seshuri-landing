@@ -50,7 +50,7 @@ export default function index() {
                                 {links.map(link => (
                                     <a key={link} href={`#${link.toLowerCase()}`} className="py-4 px-2 font-semibold hover:text-blue-500 transition duration-300">{link}</a>
                                 ))}
-                                <a href="" className="py-2 px-2 font-medium bg-blue-500 rounded hover:bg-blue-400 transition duration-300">Client Portal</a>
+                                <a href="https://clients.seshuri.com" className="py-2 px-2 font-medium bg-blue-500 rounded hover:bg-blue-400 transition duration-300">Client Portal</a>
                             </div>
                         </div>
                         <div className="md:hidden flex items-center">
@@ -75,7 +75,7 @@ export default function index() {
                         {links.map(link => (
                             <li key={link}><a href="#" className="block text-md px-2 py-4 hover:bg-blue-500 transition duration-300 font-semibold">{link}</a></li>
                         ))}
-                        <li><a href="#contact" className="block text-md px-2 py-4 hover:bg-blue-500 transition duration-300 font-semibold">Client Portal</a></li>
+                        <li><a href="https://clients.seshuri.com" className="block text-md px-2 py-4 hover:bg-blue-500 transition duration-300 font-semibold">Client Portal</a></li>
                     </ul>
                 </div>
             </nav>
@@ -85,7 +85,7 @@ export default function index() {
                         <div className='text-gray-100 text-center lg:text-left text-shadow lg:ml-16 xl:ml-40 lg:-mt-96 xl:-mt-72 -mt-16 md:mt-0'>
                             <h1 className='text-6xl sm:text-8xl font-bold mb-4'>Seshuri</h1>
                             <p className='text-2xl sm:text-3xl font-semibold opacity-90 mb-8'>Presence, reimagined.</p>
-                            <button className='bg-black text-white px-8 py-4 rounded-md font-semibold uppercase tracking-wide font-mono hover:shadow-md hover:-translate-y-0.5 transition-all duration-75'>{'>'} Let's talk</button>
+                            <a href="#contact" className='bg-black text-white px-8 py-4 rounded-md font-semibold uppercase tracking-wide font-mono hover:shadow-md hover:-translate-y-0.5 transition-all duration-75'>{'>'} Let's talk</a>
                         </div>
                     </div>
                 </div>
@@ -101,7 +101,7 @@ export default function index() {
                     <h2 className="text-4xl font-bold tracking-wide max-w-lg mb-4">Customised Websites for your Business Needs</h2>
                     <p className="text-xl max-w-lg opacity-90">Let your business wow the crowd without breaking the bank. Why settle for just any old template on the internet?</p>
                 </div>
-                <img src="dash-device.png" className="w-auto lg:max-w-2xl" />
+                <img src="app-04.png" className="w-auto lg:max-w-2xl" />
             </section>
             <section className="py-16 px-8 flex flex-row-reverse flex-wrap justify-center items-center gap-8 bg-gray-100 text-gray-800">
                 <div>
@@ -109,7 +109,7 @@ export default function index() {
                     <h2 className="text-4xl font-bold tracking-wide max-w-lg mb-4">Features your Customers will be Grateful for</h2>
                     <p className="text-xl max-w-lg opacity-90">We implement essential features that bring your user's experience to the next level</p>
                 </div>
-                <img src="dash-device.png" className="w-auto lg:max-w-2xl" />
+                <img src="app-05.png" className="w-auto lg:max-w-2xl" />
             </section>
             <section id="contact" className="text-gray-600 body-font relative">
                 <div className="container px-5 py-24 mx-auto">
