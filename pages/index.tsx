@@ -90,10 +90,10 @@ export default function index() {
                     </div>
                 </div>
             </section>
-            <section id="about" className="pt-16 px-8 flex flex-col justify-center items-center gap-8 bg-gray-800 text-gray-200">
+            <section id="about" className="py-16 px-8 flex flex-col justify-center items-center gap-8 bg-gray-800 text-gray-200">
                 <p className="font-thin tracking-widest uppercase opacity-70">Seshuri by Laminar Tech</p>
                 <h2 className="text-4xl font-bold tracking-wide max-w-xl text-center">The on-demand website team that you never had to hire</h2>
-                <img src="dash-device.png" className="w-auto lg:max-w-2xl" />
+                <img src="singaporefurniture.png" className="w-auto lg:max-w-2xl" />
             </section>
             <section id="features" className="py-16 px-8 flex flex-row flex-wrap justify-center items-center gap-8 bg-gray-100 text-gray-800">
                 <div>
@@ -101,7 +101,7 @@ export default function index() {
                     <h2 className="text-4xl font-bold tracking-wide max-w-lg mb-4">Customised Websites for your Business Needs</h2>
                     <p className="text-xl max-w-lg opacity-90">Let your business wow the crowd without breaking the bank. Why settle for just any old template on the internet?</p>
                 </div>
-                <img src="app-04.png" className="w-auto lg:max-w-2xl" />
+                <img src="directus.png" className="w-auto lg:max-w-2xl" />
             </section>
             <section className="py-16 px-8 flex flex-row-reverse flex-wrap justify-center items-center gap-8 bg-gray-100 text-gray-800">
                 <div>
@@ -109,7 +109,7 @@ export default function index() {
                     <h2 className="text-4xl font-bold tracking-wide max-w-lg mb-4">Features your Customers will be Grateful for</h2>
                     <p className="text-xl max-w-lg opacity-90">We implement essential features that bring your user's experience to the next level</p>
                 </div>
-                <img src="app-05.png" className="w-auto lg:max-w-2xl" />
+                <img src="tuili.png" className="w-auto lg:max-w-2xl" />
             </section>
             <section id="contact" className="text-gray-600 body-font relative">
                 <div className="container px-5 py-24 mx-auto">
